@@ -3,3 +3,5 @@ credentials.json
 gui.py
 config.py
 settings.yaml
+__pycache__\
+.idea\
